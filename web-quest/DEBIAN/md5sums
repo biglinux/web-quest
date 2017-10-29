@@ -1,0 +1,6 @@
+b4336a2d0e93c91604c01c29a79b60a4  etc/xdg/autostart/web-quest.desktop
+84533c573a725c128d9a4d4052095980  DEBIAN/control
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+eb040953262136804cf510b7530f0e82  usr/share/applications/web-quest.desktop
+3e331908c5a4f1594b1802588668c72e  usr/bin/web-quest
+f5ece49a7934631c14f12be0e2db329b  usr/bin/.empty
